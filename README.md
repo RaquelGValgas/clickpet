@@ -1,7 +1,7 @@
 # Projeto de Desenvolvimento de Aplicações - Grupo 14
 # Click Pet
 
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/joaovictor020403/teste-readme/blob/main/LICENSE)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/RaquelGValgas/clickpet/blob/main/license)
 
 
 
